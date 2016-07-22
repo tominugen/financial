@@ -39,6 +39,12 @@ public class ContaDao {
 		this.manager.merge(conta);
 	}
 
+	
+	public int trocaNomeDoBancoEmLote(String antigoNomeBanco, String novoNomeBanco) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
 
 
